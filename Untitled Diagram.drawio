@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T09:59:58.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.85 Safari/537.36 Vivaldi/2.2.1388.34" etag="bDnnQgJ8RZtE1g58Sf_L" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-12T10:00:43.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.85 Safari/537.36 Vivaldi/2.2.1388.34" etag="GewM7slwavcdZpRrqwOb" version="12.9.11" type="github">
   <diagram id="b4JocyOjUnilDcrLl7Rw" name="Page-1">
     <mxGraphModel dx="1788" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,6 +262,12 @@
         </mxCell>
         <mxCell id="mlky6LnuT3fTsB-rKjh9-18" value="Habite à" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="434" y="-238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlky6LnuT3fTsB-rKjh9-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-11" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlky6LnuT3fTsB-rKjh9-40" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="520" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
